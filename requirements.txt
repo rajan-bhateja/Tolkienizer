@@ -1,5 +1,4 @@
 selenium
 tqdm
 pandas
-torch
 transformers
