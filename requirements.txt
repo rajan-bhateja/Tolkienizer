@@ -2,3 +2,7 @@ selenium
 tqdm
 pandas
 transformers
+python-dotenv
+langchain-google-genai
+ipython
+langchain-core
